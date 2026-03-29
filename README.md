@@ -39,6 +39,7 @@ Prepared a case study on UPI payment fraud and created a prevention checklist to
 - GitHub Profile: https://github.com/rimi25bce11228-stack
 - LinkedIn Profile: https://www.linkedin.com/in/rimi-vishwakarma-84841b3bb/
 - Kaggle Profile: https://www.kaggle.com/rimivishwakarma
+- HackerRank Profile: https://www.hackerrank.com/profile/rimi_25bce11228
 
 ---
 
